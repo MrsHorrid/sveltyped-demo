@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { Typewriter } from 'sveltyped';
-    let words = ['Sveltyped' , 'An aweosme typewriter library', "For Svelte!"]
+    let words = ['Sveltyped' , 'An awesome typewriter library', "For Svelte!"]
 
     
 </script>
